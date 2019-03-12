@@ -1,0 +1,12 @@
+0:0:0:0:0:0:0:1 - - [02/Mar/2019:08:26:44 +0800] "GET /Store/ HTTP/1.1" 404 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [02/Mar/2019:08:26:55 +0800] "GET /erp/storealert.html HTTP/1.1" 200 657 http-bio-8080-exec-3 559
+0:0:0:0:0:0:0:1 - - [02/Mar/2019:08:26:55 +0800] "GET /erp/ui/themes/default/easyui.css HTTP/1.1" 304 - http-bio-8080-exec-6 6
+0:0:0:0:0:0:0:1 - - [02/Mar/2019:08:26:56 +0800] "GET /erp/ui/themes/icon.css HTTP/1.1" 304 - http-bio-8080-exec-5 10
+0:0:0:0:0:0:0:1 - - [02/Mar/2019:08:26:56 +0800] "GET /erp/ui/jquery.min.js HTTP/1.1" 304 - http-bio-8080-exec-7 12
+0:0:0:0:0:0:0:1 - - [02/Mar/2019:08:26:56 +0800] "GET /erp/ui/jquery.serializejson.min.js HTTP/1.1" 304 - http-bio-8080-exec-10 7
+0:0:0:0:0:0:0:1 - - [02/Mar/2019:08:26:56 +0800] "GET /erp/js/storealert.js HTTP/1.1" 200 343 http-bio-8080-exec-1 8
+0:0:0:0:0:0:0:1 - - [02/Mar/2019:08:26:56 +0800] "GET /erp/ui/locale/easyui-lang-zh_CN.js HTTP/1.1" 304 - http-bio-8080-exec-9 11
+0:0:0:0:0:0:0:1 - - [02/Mar/2019:08:26:56 +0800] "GET /erp/ui/jquery.easyui.min.js HTTP/1.1" 304 - http-bio-8080-exec-8 17
+0:0:0:0:0:0:0:1 - - [02/Mar/2019:08:26:56 +0800] "GET /erp/ui/themes/default/images/loading.gif HTTP/1.1" 304 - http-bio-8080-exec-9 24
+0:0:0:0:0:0:0:1 - - [02/Mar/2019:08:26:56 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-8 0
+0:0:0:0:0:0:0:1 - - [02/Mar/2019:08:26:58 +0800] "POST /erp/storedetail_getStorealertList HTTP/1.1" 200 229 http-bio-8080-exec-9 2014
